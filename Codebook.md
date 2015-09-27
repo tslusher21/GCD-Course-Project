@@ -11,7 +11,7 @@
   https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
   
 ##Data Transformation
-  Once you have the data in your working directory, you can run the script run_analysis.R. This script will combine the various input files into one raw dataset and generate the tidy dataset described in the Course Project description. The specific methodology is described in the README.md of this repository. 
+  Once you have the data in your working directory, you can run the script run_analysis.R. This script will combine the various input files into one dataset and generate the tidy dataset described in the Course Project description. The specific methodology is described in the README.md of this repository. 
 
 ## Variables
 The columns included in the output file are as follows:
