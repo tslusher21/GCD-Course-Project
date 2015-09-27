@@ -56,3 +56,5 @@ names(allCombined)<-gsub("BodyBody","Body",names(allCombined))
 averages<-allCombined%>%
   group_by(activity,subject)%>%
   summarise_each("mean")
+
+write.table(averages,file="tidy_data.txt",row.name=FALSE)
