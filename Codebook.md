@@ -1,4 +1,4 @@
-# *Getting and Cleaning Data* course project Codebook
+# Getting & Cleaning Data course project Codebook
 
 The columns included in the output file are as follows:
 
